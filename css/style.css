@@ -1,0 +1,52 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background-image: url(../img/God2-Sistine_Chapel.png);
+    /* Дополнительные свойства для управления фоном */
+    background-size: cover; /* Растягивает фон, чтобы покрыть весь контейнер */
+    background-position: center; /* Выравнивает фон по центру */
+    background-repeat: no-repeat;
+    /* Другие свойства фона, если необходимо */
+    font-size: 40px;
+    /* font-family: 'Dancing Script', cursive; */
+
+}
+
+.title {
+    /* background-color: rgb(197, 75, 75); */
+    display: flex;
+    justify-content: flex-end;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    text-shadow:  1px 3px 2px rgb(123, 185, 127),
+                      0 0 1em rgb(0, 140, 255),
+                    0 0 0.2em rgb(187, 0, 255);
+}
+
+.kurses1{
+    margin: 30px;
+    font-family: 'Caveat', cursive;
+    text-shadow:  1px 3px 2px rgb(123, 185, 127),
+                      0 0 1em rgb(0, 140, 255),
+                    0 0 0.2em rgb(187, 0, 255);
+}
+
+.kurses2{
+    margin: 30px;
+    font-family: 'Caveat', cursive;
+    text-shadow:  1px 3px 2px rgb(123, 185, 127),
+                      0 0 1em rgb(0, 140, 255),
+                    0 0 0.2em rgb(187, 0, 255);
+}
+
+.kurses3{
+    margin: 30px;
+    font-family: 'Caveat', cursive;
+    text-shadow:  1px 3px 2px rgb(123, 185, 127),
+                      0 0 1em rgb(0, 140, 255),
+                    0 0 0.2em rgb(187, 0, 255);
+}
